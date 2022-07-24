@@ -6,9 +6,9 @@ All solutions are in file `main.go`.
 
 To run an exercise:
 
-- Enable the corresponding function in `main.go` (e.g. `methods24()`)
+- Uncomment the corresponding function in function `main()` in file `main.go` (e.g. `methods24()`).
 - Execute in Bash:
 
 ```bash
-go run
+go run .
 ```
